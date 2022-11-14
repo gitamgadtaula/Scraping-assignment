@@ -9,11 +9,11 @@
 To install the project
 `pip3 install -r requirements.txt `
 
-##### For Task 1:
+#### For Task 1:
 
 `python3 crawler.py`
 
-##### For Task 2:
+#### For Task 2:
 
 Here are two different python files. <br />
 <b>scrape.py</b> is a first python file to run which scrapes 5 different news website and stores the content in corpus.txt
