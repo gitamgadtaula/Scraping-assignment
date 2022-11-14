@@ -1,0 +1,61 @@
+aiofiles==0.8.0
+alembic==1.8.1
+anyio==3.6.1
+asgiref==3.5.2
+blinker==1.4
+brotlipy==0.7.0
+certifi==2021.10.8
+cffi @ file:///opt/concourse/worker/volumes/live/976f8942-f51d-4f0e-7352-2a10f0820d0e/volume/cffi_1625814703974/work
+chardet @ file:///opt/concourse/worker/volumes/live/7e1102c4-8702-40f2-63d6-f260ce5f85e4/volume/chardet_1607706831384/work
+charset-normalizer==2.0.12
+click @ file:///Users/runner/miniforge3/conda-bld/click_1635822684275/work
+conda==4.11.0
+conda-package-handling @ file:///opt/concourse/worker/volumes/live/8fb3e065-760b-4a9d-4cd9-aca7fc8baf53/volume/conda-package-handling_1618262145611/work
+cryptography @ file:///opt/concourse/worker/volumes/live/d5dda287-c0b3-4861-7262-fab05baa64dc/volume/cryptography_1616769284011/work
+distlib==0.3.4
+dnspython==2.2.1
+email-validator==1.2.1
+fastapi==0.79.0
+filelock==3.6.0
+greenlet==1.1.2
+h11==0.13.0
+httptools==0.4.0
+idna @ file:///home/linux1/recipes/ci/idna_1610986105248/work
+itsdangerous==2.1.2
+Jinja2==3.1.2
+joblib @ file:///home/conda/feedstock_root/build_artifacts/joblib_1633637554808/work
+Mako==1.2.1
+MarkupSafe==2.1.1
+nltk @ file:///home/conda/feedstock_root/build_artifacts/nltk_1640748215808/work
+oauthlib @ file:///home/conda/feedstock_root/build_artifacts/oauthlib_1643507977997/work
+orjson==3.7.8
+platformdirs==2.5.1
+psycopg2-binary==2.9.3
+pycosat==0.6.3
+pycparser @ file:///tmp/build/80754af9/pycparser_1594388511720/work
+pydantic==1.9.1
+PyJWT @ file:///home/conda/feedstock_root/build_artifacts/pyjwt_1638819640841/work
+pyOpenSSL @ file:///tmp/build/80754af9/pyopenssl_1608057966937/work
+PySocks @ file:///opt/concourse/worker/volumes/live/112288ac-9cb0-4e73-768b-13baf4ca6419/volume/pysocks_1605305820043/work
+python-dotenv==0.20.0
+python-multipart==0.0.5
+PyYAML==6.0
+regex @ file:///Users/runner/miniforge3/conda-bld/regex_1642551836192/work
+requests==2.27.1
+requests-oauthlib @ file:///home/conda/feedstock_root/build_artifacts/requests-oauthlib_1643557462909/work
+ruamel-yaml-conda @ file:///opt/concourse/worker/volumes/live/e81cf0fe-611a-498e-6e69-a7320057c1ac/volume/ruamel_yaml_1616016689696/work
+six @ file:///tmp/build/80754af9/six_1623709665295/work
+sniffio==1.2.0
+SQLAlchemy==1.4.39
+starlette==0.19.1
+textblob==0.15.3
+tqdm @ file:///tmp/build/80754af9/tqdm_1625563689033/work
+tweepy @ file:///home/conda/feedstock_root/build_artifacts/tweepy_1643079093580/work
+typing-extensions==4.3.0
+ujson==5.4.0
+urllib3 @ file:///tmp/build/80754af9/urllib3_1625084269274/work
+uvicorn==0.17.6
+uvloop==0.16.0
+virtualenv==20.14.0
+watchgod==0.8.2
+websockets==10.3

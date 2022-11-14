@@ -11,13 +11,8 @@ counts = Counter(c).most_common()[:20]
 fig = plt.figure(figsize=(10, 5))
 x_axis, y_axis = [], []
 
-
-def print_graph(top_count):
-    for each in top_count:
-        x_axis.append(each[0])
-        y_axis.append(each[1])
-    plt.bar(x_axis, y_axis, color='maroon', width=0.4)
-    plt.show()
-
-
-print_graph(counts)
+for item in counts:
+    x_axis.append(item[0])
+    y_axis.append(item[1])
+plt.bar(x_axis, y_axis, color='maroon', width=0.4)
+plt.show()
