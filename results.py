@@ -14,5 +14,6 @@ x_axis, y_axis = [], []
 for item in counts:
     x_axis.append(item[0])
     y_axis.append(item[1])
+print(x_axis, y_axis)
 plt.bar(x_axis, y_axis, color='maroon', width=0.4)
 plt.show()

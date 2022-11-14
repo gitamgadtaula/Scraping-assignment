@@ -40,5 +40,4 @@ for url in urls:
             f.write(article.title)
             f.write(article.text)
             print(data)
-    # print(article.keywords)
 f.close()
